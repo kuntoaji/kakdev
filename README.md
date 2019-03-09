@@ -15,5 +15,4 @@ cd kakdev
 
 # run mac_postgresql.sh and mac_others.sh (optional)
 ./mac_postgresql.sh
-./mac_others.sh
 ```
