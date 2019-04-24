@@ -10,8 +10,9 @@ brew cask install firefox
 echo "Installing Visual Studio Code"
 brew cask install visual-studio-code
 
-echo "Installing MacVim"
+echo "Installing Neovim"
 brew install macvim
+brew install neovim
 
 echo "Installing PostgreSQL and starting PostgreSQL service"
 brew install postgresql
