@@ -13,9 +13,9 @@ brew cask install visual-studio-code
 echo "Installing MacVim"
 brew install macvim
 
-echo "Installing MySQL and starting MySQL service"
-brew install mysql
-brew services start mysql
+echo "Installing PostgreSQL and starting PostgreSQL service"
+brew install postgresql
+brew services start postgresql
 
 echo "Installing NVM Node.js LTS"
 export NVM_DIR="$HOME/.nvm"

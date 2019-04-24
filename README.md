@@ -10,9 +10,6 @@ cd kakdev
 # Generate SSH Key
 ./generate_ssh_key.sh myemail@example.com
 
-# Run mac.sh (required)
+# Run mac.sh
 ./mac.sh
-
-# run mac_postgresql.sh and mac_others.sh (optional)
-./mac_postgresql.sh
 ```
